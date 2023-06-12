@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ChooseLanguageMenu.unity
+    guid: f508845fbe219d54b8b45e3079a65f10
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 16326191ab502fb4a8e7f1c96e52a011
+  - enabled: 1
+    path: Assets/Scenes/Menu(ua).unity
+    guid: c142b037bb34c834eb4fb5ba1af138e2
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/2nd lvl.unity
+    guid: 4d8faf47ec0cd7a4d9d98b0bcab574c2
+  - enabled: 1
+    path: Assets/Scenes/2.5 lvl.unity
+    guid: 719735decddd281448dbc5874c036e71
+  - enabled: 1
+    path: Assets/Scenes/3 lvl.unity
+    guid: cfa8bbdb5b49f264490bfd8b109697d7
+  - enabled: 1
+    path: Assets/Scenes/3.5 lvl.unity
+    guid: 24ce0360cbdb548478a5d0a2b2dd99da
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: eee5fa6a7ce048e499c65e3a3869ab6b
+  - enabled: 1
+    path: Assets/Scenes/darkworld1.unity
+    guid: e51eaee04d0765046bdff72211b84194
+  - enabled: 1
+    path: Assets/Scenes/darkworld1.5.unity
+    guid: 3ed77dcf01cf1884c9ab7a97eab12ac7
+  - enabled: 1
+    path: Assets/Scenes/darkworld2.unity
+    guid: 90e3d2c4079624c4187b2bf8925abc73
+  - enabled: 1
+    path: Assets/Scenes/darkworld3.unity
+    guid: 406798e695c185c4aa41a90b6bbcd9ea
+  - enabled: 1
+    path: Assets/Scenes/darkworld4.unity
+    guid: 18fbb979d384a0944a7bbe2b98696007
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: 2bf16f1974c67a44ea3571991b9cb1b2
+  m_configObjects: {}
